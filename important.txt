@@ -1,0 +1,6 @@
+Salut tout le monde!
+Un logiciel tres pratique pour gerer les differentes versions et nous permettre de fusionner nos codes: Github. Vous l'utilisez peut-etre deja.
+Sinonm il faut creer un compte github, qui est entierement gratuit. 
+Nous avons bien sur deja google drive, mais pour gerer les programmes, on utilisera plutot git.
+Voila voilam on verra tout ca lundi!
+--Anqi
